@@ -34,6 +34,7 @@ span {
   display: block;
   background-color: black;
 }
+
 span .cover {
   height: 100vh;
   width: 100vw;
