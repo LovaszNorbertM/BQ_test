@@ -9,7 +9,7 @@
 
 <script>
 import { defineComponent } from "vue";
-import cover from "@/assets/img/BQ_logo_Black_quodrum_main.svg";
+import cover from "../../public/assets/img/BQ_logo_Black_quodrum_main.svg";
 export default defineComponent({
   name: "WebBQCoverImage",
   components: { cover },
