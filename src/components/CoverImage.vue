@@ -11,7 +11,7 @@
 import { defineComponent } from "vue";
 import cover from "@/assets/img/BQ_logo_Black_quodrum_main.svg";
 export default defineComponent({
-  name: "WebBQCoverImage",  
+  name: "WebBQCoverImage",
   components: { cover },
 
   data() {
@@ -44,7 +44,7 @@ span .cover {
   animation: dash 5s ease-in reverse infinite;
 }
 span .cover #tree {
-  fill: rgb(0, 0, 0) "";
+  fill: rgb(0, 0, 0);
 }
 
 span::before {
