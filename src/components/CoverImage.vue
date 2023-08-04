@@ -1,11 +1,4 @@
-<template>
-  <span>
-    <cover class="cover" />
-    <div>
-      <!-- <h1>Black Quodrum</h1> -->
-    </div>
-  </span>
-</template>
+
 
 <script>
 import { defineComponent } from "vue";
@@ -25,6 +18,14 @@ export default defineComponent({
   methods: {},
 });
 </script>
+<template>
+  <span>
+    <cover class="cover" />
+    <div>
+      <!-- <h1>Black Quodrum</h1> -->
+    </div>
+  </span>
+</template>
 
 <style scoped>
 span {
